@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/flask-todo-app.git
+git clone https://github.com/nagashankar-01/flask-todo-app.git
 Navigate into the project directory:
 
 bash
@@ -34,7 +34,7 @@ Run the application:
 bash
 Copy code
 flask run
-Open your web browser and navigate to http://localhost:5000 to access the application.
+Open your web browser and navigate to http://localhost:8000 to access the application.
 
 Contribution:
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
